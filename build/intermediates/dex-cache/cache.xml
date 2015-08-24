@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Joyce\Documents\AndroidProject\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\Joyce\Documents\Hack\QRorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Joyce\Documents\AndroidProject\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-04f0d5b1966be713da5a529db0915fa8c56d3dee.jar" />
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Joyce\Documents\Hack\QRorder\app\build\intermediates\pre-dexed\debug\classes-f4af2ddbe35b89274e70b601e7333601f18f6199.jar" />
     </item>
     <item
         jar="C:\Users\Joyce\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
@@ -21,6 +21,20 @@
         revision="22.0.1"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="C:\Users\Joyce\Documents\AndroidProject\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-94ee2c93e9967e671fa88a3c134b303370e00f4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joyce\Documents\Hack\QRorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Joyce\Documents\Hack\QRorder\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-971a380a6536909ac8d420c8bb0ed1b813657432.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joyce\Documents\AndroidProject\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Joyce\Documents\AndroidProject\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-04f0d5b1966be713da5a529db0915fa8c56d3dee.jar" />
     </item>
 
 </items>

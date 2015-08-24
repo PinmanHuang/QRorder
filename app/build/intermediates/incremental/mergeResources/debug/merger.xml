@@ -3,4 +3,4 @@
         <item>All</item>
         <item>Category</item>
         <item>Favoriate</item>
-    </string-array><string name="drawer_open">Open navigation drawer</string></file></source><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\build\generated\res\rs\debug"/><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\src\debug\res"/></dataSet><mergedItems/></merger>
+    </string-array><string name="drawer_open">Open navigation drawer</string></file><file name="my_list" path="C:\Users\Joyce\Documents\Hack\QRorder\app\src\main\res\layout\my_list.xml" qualifiers="" type="layout"/></source><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\build\generated\res\rs\debug"/><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Joyce\Documents\Hack\QRorder\app\src\debug\res"/></dataSet><mergedItems/></merger>
